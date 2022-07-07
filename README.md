@@ -1,3 +1,5 @@
+# Analizy szeregów czasowych dotyczących kształtowania się CPI Meksyku oraz liczby wyszukiwań w Google koszykarza Lebrona James’a
+
 - For the prediction of the non-seasonal series (Mexico's CPI), 3 extrapolation methods were used: exponential smoothing, the Holt model and ARIMA
 - For the seasonal series (number of Lebron James's google searches), the SARIMA model was used
 - Both series, were examined in terms of stationarity (Dickey-Fuller test, KPSS test) and seasonality (augmented Dickey, Hasha, Fuller test)
