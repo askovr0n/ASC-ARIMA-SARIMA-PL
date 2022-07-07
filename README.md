@@ -8,4 +8,4 @@
 - The work used R (modelling) and Demetra (series decomposition) software
 
 #### Average forecast error estimates for models estimating non-seasonal series
-![](images/Project_2/mean_errors.png](https://github.com/askovr0n/Portfolio/blob/main/images/Project_2/mean_errors.png)
+![](https://github.com/askovr0n/Portfolio/blob/main/images/Project_2/mean_errors.png)
